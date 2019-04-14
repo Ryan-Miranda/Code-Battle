@@ -3,7 +3,7 @@ CodeBattle is (currently) a one-on-one coding challenge game. The objective is t
 
 
 ## Inspirations ##
-Ever had an argument with a friend about who the better coder is? Now there's a way to settle it once and for all! Leave it up to CodeBattle challenges to decide it all!
+Ever had an argument with a friend about who the better coder is? Now there's a fun way to settle it once and for all!
 
 ## Walkthough GIFs ##
 <img src="http://g.recordit.co/rMCdYGTBnx.gif" width = 800><br><br><br>
