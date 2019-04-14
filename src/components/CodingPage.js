@@ -253,7 +253,7 @@ export class CodingPage extends Component {
                     color="primary" 
                     className={classes.button}
                     onClick = {this.startSession}>
-                    Ready Up
+                    Ready
                 </Button>
                 
                 <Button 
@@ -276,7 +276,7 @@ const theme = createMuiTheme({
         main: '#6a1b9a'
     },
     secondary: {
-        main: '#1e88e5'
+        main: '#000000'
     },
   },
 });
