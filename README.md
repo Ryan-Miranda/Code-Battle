@@ -8,4 +8,4 @@ Ever had a fight against another friend about who the better coder is? Now there
 
 ### Walkthough GIFs
 <img src="http://g.recordit.co/rMCdYGTBnx.gif" width = 800><br><br><br>
-<img src = "http://g.recordit.co/nft3i6JnE9.gif"><br>
+<img src = "http://g.recordit.co/nft3i6JnE9.gif" width = 800><br>
